@@ -1,0 +1,30 @@
+{
+    "labels": [
+        "User_PT",
+        "User_ST",
+        "User_TE",
+        "User_IT",
+        "User_PT",
+        "User_CT",
+        "User7_IJ",
+        "User8_MY",
+        "User9_PT",
+        "User10_SI",
+        "User11CM",
+        "User12TE"
+    ],
+    "values": [
+            6,
+            8,
+            10,
+            12,
+            14,
+            16,
+            18,
+            20,
+            14,
+            22,
+            30,
+            6
+    ]
+}
