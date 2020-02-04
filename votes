@@ -1,0 +1,22 @@
+{
+    "labels": [
+        "User1",
+        "User2",
+        "User3",
+        "User4",
+        "User5",
+        "User6",
+        "User7",
+        "User8"
+    ],
+    "values": [
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20
+    ]
+}
